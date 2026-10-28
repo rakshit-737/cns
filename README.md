@@ -1,6 +1,6 @@
 # cns
 
-A Python project.
+python codes for BCSE309P-Cryptography and Network Security
 
 ## Overview
 
